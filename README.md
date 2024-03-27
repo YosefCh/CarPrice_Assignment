@@ -4,7 +4,7 @@ This project is an exploration of various regression models to predict car price
 
 ## Project Structure
 
-The project is structured as a Jupyter notebook, with code cells interspersed with markdown cells explaining the process. The notebook begins with data loading and preprocessing, including handling of categorical variables and normalization. It then proceeds to exploratory data analysis, where correlations between features are examined.
+The project begins with data loading and preprocessing, including handling of categorical variables and normalization. It then proceeds to exploratory data analysis, where correlations between features are examined.
 
 ## Models
 
@@ -22,18 +22,13 @@ Each model's performance is evaluated using cross-validation. The metrics used t
 
 ## Results
 
-The results section of the notebook includes a summary of the performance of each model, as well as visualizations of the results. The best performing model is highlighted.
+The results section of the notebook includes a summary of the performance of each model, as well as visualizations of the results.
 
 ## Usage
 
-To use this notebook, you will need to have Python installed, along with the necessary libraries (numpy, pandas, matplotlib, scikit-learn, seaborn). You can then run the notebook cell-by-cell to follow along with the analysis.
+To use this notebook, you can install Python, along with the necessary libraries (numpy, pandas, matplotlib, scikit-learn, seaborn). You can then run the notebook cell-by-cell to follow along with the analysis. Alternatively the file can be run on __https://colab.research.google.com/__
 
 ## Level
 
 This project is suitable for individuals with an **intermediate** level of understanding in machine learning and Python programming. Familiarity with regression models, data preprocessing, and cross-validation is assumed. The code is well-commented and explained, making it accessible to those who are relatively new to these concepts but have some foundational knowledge. 
 
-Please note that this project involves a certain level of complexity in terms of the models used and the feature engineering performed. Therefore, it may not be suitable for absolute beginners. However, it provides a good opportunity for those looking to expand their skills in machine learning and data analysis. 
-
-## Disclaimer
-
-The results of this project are based on a specific dataset and may not generalize to other datasets or contexts. Always perform your own analysis when working with a new dataset.
