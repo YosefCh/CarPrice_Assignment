@@ -28,6 +28,10 @@ The results section of the notebook includes a summary of the performance of eac
 
 To use this notebook, you can install Python, along with the necessary libraries (numpy, pandas, matplotlib, scikit-learn, seaborn). You can then run the notebook cell-by-cell to follow along with the analysis. Alternatively the file can be run on __https://colab.research.google.com/__
 
+## License
+
+MIT License
+
 ## Level
 
 This project is suitable for individuals with an **intermediate** level of understanding in machine learning and Python programming. Familiarity with regression models, data preprocessing, and cross-validation is assumed. The code is well-commented and explained, making it accessible to those who are relatively new to these concepts but have some foundational knowledge. 
